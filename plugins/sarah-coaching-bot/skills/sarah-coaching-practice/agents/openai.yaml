@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sarah Coaching Practice"
+  short_description: "Practice executive coaching with Sarah"
+  default_prompt: "Use $sarah-coaching-practice to give me a fictional executive coaching scenario and critique my response."

@@ -1,0 +1,25 @@
+{
+  "name": "sarah-coaching-bot",
+  "version": "0.1.0",
+  "description": "Deliberate practice and feedback for executive-coaching conversations.",
+  "author": {
+    "name": "Sarah Coaching Bot contributors"
+  },
+  "license": "MIT",
+  "keywords": ["coaching", "executive-coaching", "deliberate-practice", "foursquare"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sarah Coaching Bot",
+    "shortDescription": "Practice executive-coaching moves with feedback.",
+    "longDescription": "Sarah presents fictional executive-coaching moments, simulates a plausible client response, and gives formative feedback using a Foursquare coaching lens, ICF-aligned behaviors, and a transparent five-part rubric.",
+    "developerName": "Sarah Coaching Bot contributors",
+    "category": "Productivity",
+    "capabilities": ["Interactive"],
+    "brandColor": "#2D6A67",
+    "defaultPrompt": [
+      "Give me a fictional coaching scenario to practice.",
+      "Critique this coaching response using Sarah's rubric.",
+      "Help me practice Support for Thought."
+    ]
+  }
+}
