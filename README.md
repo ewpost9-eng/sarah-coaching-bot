@@ -16,7 +16,7 @@ See [CAPABILITY-INVENTORY.md](CAPABILITY-INVENTORY.md) for the complete source-t
 
 This repository is private. Ask the repository owner for access, then:
 
-1. Download or clone this repository to your computer.
+1. [Download or clone this repository](https://github.com/ewpost9-eng/sarah-coaching-bot) to your computer.
 2. In a terminal opened inside the downloaded folder, run:
 
    ```text

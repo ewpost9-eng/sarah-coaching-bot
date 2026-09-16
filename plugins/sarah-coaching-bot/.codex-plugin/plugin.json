@@ -5,6 +5,8 @@
   "author": {
     "name": "Sarah Coaching Bot contributors"
   },
+  "homepage": "https://github.com/ewpost9-eng/sarah-coaching-bot#readme",
+  "repository": "https://github.com/ewpost9-eng/sarah-coaching-bot",
   "license": "MIT",
   "keywords": ["coaching", "executive-coaching", "deliberate-practice", "foursquare"],
   "skills": "./skills/",
